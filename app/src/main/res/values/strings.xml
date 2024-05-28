@@ -1,0 +1,9 @@
+<resources>
+  <string name="app_name">Ping</string>
+  <string name="domain_ip"><![CDATA[Domain & Ip]]></string>
+  <string name="ok">Ok</string>
+  <string name="ip_not_found">Ip not found</string>
+  <string name="domain">Domain</string>
+  <string name="ip">Ip</string>
+  <string name="host_is_unknown">host is unknown</string>
+</resources>
